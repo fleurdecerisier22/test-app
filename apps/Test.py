@@ -11,6 +11,6 @@ def app():
     st.write("OK DataLoad")    
 
 
-    st.write("age sum ",len(data["age_yr"][:]) ,np.sum(data["age_yr"][:]))
+    st.write("age",　data["age_yr"][:])
 
     
