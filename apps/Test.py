@@ -11,6 +11,6 @@ def app():
     st.write("OK DataLoad")    
 
 
-    st.write(data["age_yr"][:][1:5])
+    st.write(data["age_yr"][:])
 
     
