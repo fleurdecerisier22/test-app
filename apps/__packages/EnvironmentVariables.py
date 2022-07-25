@@ -6,7 +6,7 @@ class Variables:
 
         #Files
         
-        self.faers_file = 'apps/__data/faers_vds.h5py'
+        self.faers_file = 'apps/__data/faers_vds_2004.h5py'
        
         #lottieurl
         
